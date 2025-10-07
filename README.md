@@ -58,7 +58,7 @@ The goal of this notebook is to:
 ## 📸 Sample Visualizations  
 
 ### Sales Trend by Store Type  
-![Sales Trend by Store Type]([Figure.png)
+![Sales Trend by Store Type](Figure.png)
 
 ### Average Weekly Sales by Store Size Group  
 ![Average Weekly Sales by Store Size Group](Figure2.png)
